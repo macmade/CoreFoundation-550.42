@@ -1,6 +1,11 @@
 Apple's CoreFoundation - Version 550.42
 =======================================
 
+[![Issues](http://img.shields.io/github/issues/macmade/CoreFoundation-550.42.svg?style=flat)](https://github.com/macmade/CoreFoundation-550.42/issues)
+![Status](https://img.shields.io/badge/status-inactive-lightgray.svg?style=flat)
+![License](https://img.shields.io/badge/license-apsl-lightgray.svg?style=flat)
+[![Contact](https://img.shields.io/badge/contact-@macmade-blue.svg?style=flat)](https://twitter.com/macmade)
+
 About
 -----
 
